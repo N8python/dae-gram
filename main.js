@@ -72,7 +72,7 @@ function animation() {
     ctx.fillStyle = "Green";
     ctx.fillText("Gavin, Alec, Anya, and William", -1200 + firstFrame, 300);
     ctx.fillStyle = "Blue";
-    ctx.fillText("Ris & Rye, Everyone else", 1200 - firstFrame, 400);
+    ctx.fillText("Ris & Rye, Aday, Everyone else", 1200 - firstFrame, 400);
   } else if (firstFrame < 1501) {
     ctx.textAlign = "center";
     ctx.font = firstFrame - 1400 + "px Courier";
